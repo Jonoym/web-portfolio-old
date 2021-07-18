@@ -11,3 +11,8 @@ Features that the website include are:
 - Working Navigation buttons
 - Page change animations
 
+Things Learnt:
+- CSS code can easily become unmaintainable and requires good structure
+- Importance of screen sizes and accessability of features 
+- Class and ID structure of CSS
+- Selection of items in JavaScript and how to manipulate style
